@@ -4,8 +4,6 @@ import React from 'react';
 import Card from './Card';
 import styles from './Pricing.module.css';
 
-
-
 const Pricing: React.FC = () => {
   return (
     <div className={styles.grid1}>
